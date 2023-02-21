@@ -1,0 +1,16 @@
+.valid{
+position: inherit;
+
+}
+*{
+    background-color:black;
+    color: white;
+    padding:10px ;
+}
+li{
+    padding-bottom: 10px;
+}
+img{
+    height: 80vh;
+    width: 80vh;
+}
